@@ -23,6 +23,7 @@
   "devDependencies": {
     "mocha": "*",
     "coveralls": "*",
+	  "merge": "^1.2.0",
     "mocha-lcov-reporter": "*",
     "istanbul": "*",
     "event-stream": "*",
